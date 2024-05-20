@@ -1,0 +1,41 @@
+body{
+    background-color: azure;
+}
+h1{
+    color: #0400ff;
+    margin-left: 900px;
+    font-size: 100px;
+}
+h2{
+    color: #ff0000;
+    font-size: 65px;
+    background-color: #00f7ff80;
+    border-color: rgb(102, 0, 255);
+    border-style:solid;
+    border-width:10px;
+    padding:10px;
+    width: 25%;
+    margin-left: 200px;
+}
+h3{
+    color: rgb(82, 113, 172);
+    font-size: 50px;
+    background-color: hsl(220, 4%, 87%);
+    border-color: rgb(253, 255, 124);
+    border-style:solid;
+    border-width:10px;
+    padding:10px;
+    width: 25%;
+    margin-left: 200px;
+}
+li{
+    color: black;
+    font-size: 30px;
+    background-color: lightcoral;
+    border-color: rgb(70, 143, 119);
+    border-style:solid;
+    border-width:10px;
+    padding:10px;
+    width: 23.5%;
+    margin-left: 200px;
+}
